@@ -1,7 +1,7 @@
 # Data_Analyst_Nanodegree
 
 ### [Project 1: Explore Weather Trends](https://github.com/jmt7080/Data_Analyst_Nanodegree/tree/main/Project%201%20Explore%20Weather%20Trends)
-Uses Python and Jupyter Notebook to extract, explore, wrangle, clean and create visuaizations for historical weather data of cities of the world. 
+Uses Python and Jupyter Notebook to extract, explore, wrangle, clean and create visualizations for historical weather data of cities of the world. 
 
 ![alt text](https://raw.githubusercontent.com/jmt7080/Data_Analyst_Nanodegree/main/Project%201%20Explore%20Weather%20Trends/DAND_p1_intro_pic.JPG)
 
